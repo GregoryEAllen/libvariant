@@ -51,7 +51,7 @@ a parameter to be used as an output parameter, the function must take a
 VariantRef by value.  VariantRef can be constructed from a Variant as well, so
 such a function can take either a VariantRef or Variant.
 
-libvariant is [publicly hosted here](https://bitbucket.org/gallen/libvariant).
+libvariant is [publicly hosted here](https://github.com/GregoryEAllen/libvariant).
 
 Building
 --------
@@ -116,7 +116,7 @@ API Documentation
 
 The main API is documented in the source code using the Doxygen format.
 The generated html documentation is served on the web at
-http://gallen.bitbucket.org/libvariant-docs.
+http://GregoryEAllen.github.io/doxy/libvariant-docs.
 
 If you have doxygen installed, you can generate html documentation of the
 libvariant public interface from the source code with:
